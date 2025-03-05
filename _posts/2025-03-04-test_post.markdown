@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "test post"
+date:   2025-03-04 14:52:14 +0000
+categories: test
+---
+
+And so I can also have other posts I guess.
+
+<b>and do we have bold stuff<i>etc</i></b>
+
+and pictures too although not sure how to do that.
